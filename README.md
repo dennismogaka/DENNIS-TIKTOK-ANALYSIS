@@ -201,7 +201,8 @@ Here are recommendations to help improve and grow Dennis’ TikTok account in th
 
 •	Implement a snapshot report at the start of each month to track changes and prevent real-time data shifts from skewing insights.
 
-![tiktok dashboard](https://github.com/user-attachments/assets/c8fe4e1c-b52b-44d2-a1f4-9c02eae6bb8e)
+![DASHBOARD IMAGE](https://github.com/user-attachments/assets/0c57670e-ccd9-416a-b5b5-10637a12a4d0)
+
 
 
 
