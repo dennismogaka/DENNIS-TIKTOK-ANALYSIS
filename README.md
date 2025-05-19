@@ -52,7 +52,7 @@ indicators such as total likes, total comments, total followers, total following
 
 The data used in this analysis was extracted from TikTok and saved as a CSV file.
 
-
+[data](https://github.com/dennismogaka/DENNIS-TIKTOK-ANALYSIS/blob/main/tiktokanalysis.xlsx)
 
 ## **DATA PROCESSING**
 
