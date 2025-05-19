@@ -77,7 +77,17 @@ created.
 
 •	After all the data had been matched into one, a table was created.
 
+![data](https://github.com/user-attachments/assets/b2aabb15-f77a-4598-b9cf-78a4457a7c28)
+
+
 •	Pivot tables were inserted and data analysis began.
+
+![pivot1](https://github.com/user-attachments/assets/4df768df-227a-4c57-a75f-a57d3ed4052e)
+
+![pivot2](https://github.com/user-attachments/assets/0b05d147-9a85-4895-8316-4634a3d9a515)
+
+![pivot3](https://github.com/user-attachments/assets/316483e8-e586-4a90-83cd-601378929320)
+
 
 ## **DATA ANALYSIS**
 
@@ -89,19 +99,25 @@ The analysis reveal several key insights related to posts, comments, likes, foll
 
 •	**Total Posts (73):** Shows consistent content creation and effort from November 2024 to April 2025 laid the foundation for the account growth.
 
- 
+ ![posts](https://github.com/user-attachments/assets/9cda90bc-564b-45b2-a60e-f564b0ccd4c9)
+
 •	**Total Likes (1383):** Likes account for a significant portion of engagement, signaling positive reception from viewers.
 
+![tik likes](https://github.com/user-attachments/assets/1ce00210-eb99-443b-8042-5490db89b7f4)
  
 •	**Total Followers (1178):** The number of followers rose considerably between November 2024 and April 2025 due to consistent posting of content that resonates with the audience.
 
+![followers](https://github.com/user-attachments/assets/46ad3610-ec2d-4033-94b5-1a3af9760fa4)
  
 
 •	**Total Following (1060)** 
 
+![tikt following](https://github.com/user-attachments/assets/542c36c7-5414-4bff-820a-7ac4e606f7b8)
  
 
 •	**Total Comments (56)**
+
+![comments](https://github.com/user-attachments/assets/da7f8abe-3756-4cd7-8549-9086b75b80f1)
 
  
 •	**Engagement Rate (4.2%):** The engagement rate is WITHIN Tiktok’s typical 3-6% suggesting that the content posted resonated well with the audience.
@@ -181,6 +197,7 @@ Here are recommendations to help improve and grow Dennis’ TikTok account in th
 
 •	Implement a snapshot report at the start of each month to track changes and prevent real-time data shifts from skewing insights.
 
+![tiktok dashboard](https://github.com/user-attachments/assets/c8fe4e1c-b52b-44d2-a1f4-9c02eae6bb8e)
 
 
 
