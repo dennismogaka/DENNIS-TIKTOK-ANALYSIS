@@ -134,7 +134,7 @@ The analysis reveal several key insights related to posts, comments, likes, foll
 
 ## **DASHBOARD REVIEW**
 
-https://github.com/dennismogaka/DENNIS-TIKTOK-ANALYSIS/blob/main/TKTOK%20(Autosaved).xlsx
+[DASHBOARD](https://github.com/dennismogaka/DENNIS-TIKTOK-ANALYSIS/blob/main/TKTOK%20(Autosaved).xlsx)
 
 The dashboard provides a comprehensive analysis of account performance from 2022-2025. It Incorporates interactive parameters that allow filtering and viewing performance 
 
