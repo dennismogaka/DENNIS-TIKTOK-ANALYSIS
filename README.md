@@ -48,7 +48,11 @@ indicators such as total likes, total comments, total followers, total following
 
 ## **DATA SOURCE AND EXTRACTION PROCESS**
 
+## **DATA SOURCE**
+
 The data used in this analysis was extracted from TikTok and saved as a CSV file.
+
+
 
 ## **DATA PROCESSING**
 
